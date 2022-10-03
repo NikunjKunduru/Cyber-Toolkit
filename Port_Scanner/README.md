@@ -26,7 +26,7 @@ Clone this repository:
 Go to the cloned directory and run the keylogger.py file:
     
     cd Cyber-Toolkit/Port_Scanner
-    python3 portscanner.py <Host's IP address> --ports <Port Range>
+    python3 portscanner.py <Host's IP address> --ports <Port range (inclusive of both ports)> 
 
 &nbsp;
 ## Conclusion
