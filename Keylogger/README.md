@@ -38,4 +38,4 @@ Note that use this code only on a computer you have permission to. Use it at you
 
 <br />
 
-**References:** https://www.thepythoncode.com
+🤖 **References:** https://www.thepythoncode.com
