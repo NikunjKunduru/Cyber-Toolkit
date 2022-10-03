@@ -3,7 +3,7 @@ The reverse shell's goal is to connect to a remote computer and redirect the inp
 
 &nbsp;
 ## What is this project about?
-Implementing a reverse shell in Python using sockets that can execute remote shell commands and send the results back to the server.
+Implementing a reverse shell in Python using socket programming that can execute remote shell commands and send the results back to the server.
 
 &nbsp;
 ## How to run this project?
