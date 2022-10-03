@@ -25,7 +25,7 @@ Clone this repository:
 **Step 4:**
 Go to the cloned directory and run the keylogger.py file:
     
-    cd Keylogger
+    cd Cyber-Toolkit/Keylogger
     python3 keylogger.py
 
 &nbsp;
